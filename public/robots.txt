@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ivoire-fragrance.com/sitemap.xml
+
