@@ -36,7 +36,7 @@ export const PRODUCTS = [
     name: "Iris Oud",
     slug: "iris-oud",
     houseName: "Born in France",
-    price: 15000,
+    price: 20000,
     volume: "Eau de Parfum",
     stockLabel: "Quantité limitée",
     description: "Une interprétation magistrale de la maison Born in France, mariant la grâce poudrée et florale de l’iris à la profondeur sensuelle du bois de oud.",
